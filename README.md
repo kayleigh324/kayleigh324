@@ -10,7 +10,7 @@
 
 Please feel free to get in touch...
 
-<a src="https://github.com/kayleigh324/kayleigh324/blob/main/README.md">
+<a href="https://github.com/kayleigh324/kayleigh324/blob/main/README.md">
 <img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>
  <a/>
 

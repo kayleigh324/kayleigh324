@@ -1,12 +1,12 @@
 <h1> Hi there 👋, I'm Kayleigh Bell, nice to have you here! </h1>
 
- 🔭 I'm a self-taught front-end developer with a dream of becoming a full-stack developer.
+ 🔭 I'm a full stack developer with experience in Java, JavaScript, TypeScript, SQL
 
- 🌱 I'm currently working on a few personal projects to build my portfolio, as well as my work at Not Just Nibbles.
+ 🌱 I've been working in the industry now for 2 years
 
- 🤔 I'm currently learning React, developing my JavaScript skills and navigating my way around AWS!
+ 🤔 I'm AWS Solutions Artchitect Associate certified!
 
- 👯 I would love to collaberate on a front-end project, as well as recieve some help for my React project!
+ 👯 I would love to collaberate on some projects. I'm currently updating my portfollio to reflect my skills..
 
 Please feel free to get in touch...
 

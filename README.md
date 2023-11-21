@@ -2,7 +2,7 @@
 
  🔭 I'm a full stack developer with experience in Java, JavaScript, TypeScript, SQL
 
- 🌱 I've been working in the industry now for 2 years
+ 🌱 I've been working in the industry now for 3 years
 
  🤔 I'm AWS Solutions Artchitect Associate certified!
 

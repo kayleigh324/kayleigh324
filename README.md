@@ -1,6 +1,6 @@
 <h1> Hi there 👋, I'm Kayleigh Bell, nice to have you here! </h1>
 
- 🔭 I'm a full stack developer with experience in Java, JavaScript, TypeScript, SQL
+ 🔭 I'm a full stack developer with experience in Java, JavaScript, TypeScript, SQL, Python
 
  🌱 I've been working in the industry now for 3 years
 
